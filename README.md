@@ -8,7 +8,7 @@ The goal is to demonstrate how **financial transparency and variance tracking** 
 
 ## Objectives
 - Build an **SAP-like star schema** integrating revenue, expense, and capital expenditure data.  
-- Create **DAX-based KPIs** for Actual vs Budget Variance, YoY Growth, Gross Margin %, Expense Ratio, and CapEx Utilization.  
+- Create **DAX-based KPIs** for YoY Growth, Gross Margin %, Expense Ratio, and CapEx Utilization.  
 - Develop **interactive report pages** for Executive Overview, Segment Performance (Gaming, Data Center, Auto, ProViz), and Cost Center Variance.  
 - Emphasize **data validation, documentation, and metric transparency**, aligning with best practices in FP&A reporting.
 
