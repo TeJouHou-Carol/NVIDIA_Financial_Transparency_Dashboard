@@ -1,5 +1,7 @@
 # 📊 NVIDIA Financial Analytics Dashboard (Tableau)
 
+[![Open Dashboard](https://img.shields.io/badge/Launch-Tableau%20Dashboard-blue?style=for-the-badge&logo=tableau)](https://public.tableau.com/views/NVIDIA_Finance_Analytics/ExecutiveSummary?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+
 ## Overview
 
 This project presents a multi-page Tableau dashboard designed to replicate an end-to-end NVIDIA-style financial analytics workflow.
